@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I'm noob 👋
 ## Studying Since 2022-08
 - Framework  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=spring&logoColor=6DB33F"/></a>  
