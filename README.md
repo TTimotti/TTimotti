@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+- Framework
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=spring&logoColor=6DB33F"/></a>  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-F0F8FF?style=plastic&logo=springboot&logoColor=6DB33F"/></a>  
+- DB
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Oracle-F0F8FF?style=plastic&logo=oracle&logoColor=F80000"/></a>  
+- WEB
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)
