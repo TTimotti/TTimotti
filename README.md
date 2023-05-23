@@ -16,7 +16,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/eclipse-F0F8FF?style=plastic&logo=eclipseide&logoColor=2C2255"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/intellij-F0F8FF?style=plastic&logo=intellijidea&logoColor=000000"/></a>  
 - SNS  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=plastic&logo=instagram&logoColor=E4405F"/></a> : https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==  
+<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=plastic&logo=instagram&logoColor=E4405F"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-F0F8FF?style=plastic&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/notion-F0F8FF?style=plastic&logo=notion&logoColor=000000"/></a>  
 - E-mail : **ttimotti@kakao.com**
