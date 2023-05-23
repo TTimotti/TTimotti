@@ -1,11 +1,26 @@
 ### Hi there 👋
 - Framework  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=spring&logoColor=6DB33F"/></a>  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-F0F8FF?style=plastic&logo=springboot&logoColor=6DB33F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=spring&logoColor=6DB33F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-F0F8FF?style=plastic&logo=springboot&logoColor=6DB33F"/></a>  
 - DB  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Oracle-F0F8FF?style=plastic&logo=oracle&logoColor=F80000"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=plastic&logo=oracle&logoColor=F80000"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-F0F8FF?style=plastic&logo=mysql&logoColor=4479A1"/></a>  
 - WEB  
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-F0F8FF?style=plastic&logo=html5&logoColor=E34F26"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-F0F8FF?style=plastic&logo=css3&logoColor=1572B6"/></a>  
+- Library  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-F0F8FF?style=plastic&logo=jquery&logoColor=0769AD"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/thymeleaf-F0F8FF?style=plastic&logo=thymeleaf&logoColor=005F0F"/></a>  
+- IDEA   
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/eclipse-F0F8FF?style=plastic&logo=eclipseide&logoColor=2C2255"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/intellij-F0F8FF?style=plastic&logo=intellijidea&logoColor=000000"/></a>  
+- SNS  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=plastic&logo=instagram&logoColor=E4405F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-F0F8FF?style=plastic&logo=discord&logoColor=5865F2"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/notion-F0F8FF?style=plastic&logo=notion&logoColor=000000"/></a>  
+- E-mail : **ttimotti@kakao.com**
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)
 <!--
