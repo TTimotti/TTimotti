@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </picture>  
 
-**DB**    
+**DB**
+
 ---
 <picture>
   <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
