@@ -1,10 +1,10 @@
 ### Hello I'm noob 👋
 ### Learning Since 2022-08 ~  
 - Framework  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-41454A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></a>  
+<img src="https://img.shields.io/badge/Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>  
+<img src="https://img.shields.io/badge/SpringBoot-41454A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>  
 - DB  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=for-the-badge&logo=oracle&logoColor=F80000"/></a>  
+<img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=for-the-badge&logo=oracle&logoColor=F80000"/>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-F0F8FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=MariaDB&logoColor=003545"/></a>  
 - OS  
