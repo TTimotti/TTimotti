@@ -1,8 +1,6 @@
 <!-- Learning Since 2022-08 ~   -->
   
 **Framework & Library**  
-
----
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
 </picture>
