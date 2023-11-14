@@ -2,6 +2,20 @@
 Learning Since 2022-08 ~  
 https://simpleicons.org
 -->
+**Language**  
+<picture>
+  <img src="https://img.shields.io/badge/HTML5-41454A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/JavaScript-41454A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/CSS3-41454A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/JAVA-41454A?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
+</picture>  
+
   
 **Framework & Library**  
 <picture>
@@ -37,20 +51,6 @@ https://simpleicons.org
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-</picture>
-
-**Language**  
-<picture>
-  <img src="https://img.shields.io/badge/HTML5-41454A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/JavaScript-41454A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/CSS3-41454A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/JAVA-41454A?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
 </picture>
 
 
