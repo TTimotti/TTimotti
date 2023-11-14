@@ -6,7 +6,7 @@
 - DB  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=for-the-badge&logo=oracle&logoColor=F80000"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-F0F8FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=MariaDB&logoColor=4479A1"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=MariaDB&logoColor=003545"/></a>  
 - OS  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/windows-F0F8FF?style=for-the-badge&logo=windows&logoColor=0078D6"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/linux-F0F8FF?style=for-the-badge&logo=linux&logoColor=FCC624"/></a>  
