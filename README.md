@@ -74,9 +74,8 @@ SNS
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>  
 
 
-<picture>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)
-</picture>
 <!--
 **TTimotti/TTimotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
