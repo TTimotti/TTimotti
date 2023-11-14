@@ -10,58 +10,58 @@
 
 - DB
 <picture>
-  <img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/OracleSQL-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/MySQL-F0F8FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MySQL-41454A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
+  <img src="https://img.shields.io/badge/MariaDB-41454A?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </picture>
 
 - OS  
 <picture>
-  <img src="https://img.shields.io/badge/windows-F0F8FF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  <img src="https://img.shields.io/badge/windows-41454A?style=for-the-badge&logo=windows&logoColor=0078D6"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/linux-F0F8FF?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </picture>
 
 - WEB  
 <picture>
-  <img src="https://img.shields.io/badge/HTML5-F0F8FF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/HTML5-41454A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </picture>  
 <picture>
-  <img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-41454A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/CSS3-F0F8FF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/CSS3-41454A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </picture>
 
 - Library  
 <picture>
-  <img src="https://img.shields.io/badge/jQuery-F0F8FF?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+  <img src="https://img.shields.io/badge/jQuery-41454A?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/thymeleaf-F0F8FF?style=for-the-badge&logo=thymeleaf&logoColor=005F0F"/>
+  <img src="https://img.shields.io/badge/thymeleaf-41454A?style=for-the-badge&logo=thymeleaf&logoColor=005F0F"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/react-F0F8FF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </picture>
 
 - IDEA   
 <picture>
-  <img src="https://img.shields.io/badge/eclipse-F0F8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/eclipse-41454A?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/intellij-F0F8FF?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/intellij-41454A?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </picture>
 - SNS  
-<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-F0F8FF?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
+<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-41454A?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
 - E-mail : **ttimotti@kakao.com**
 
 
