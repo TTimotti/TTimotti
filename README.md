@@ -59,7 +59,7 @@ https://simpleicons.org
   <img src="https://img.shields.io/badge/eclipse-41454A?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/intellij-41454A?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/intellij-41454A?style=for-the-badge&logo=intellijidea&logoColor=FEFEFE"/>
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
