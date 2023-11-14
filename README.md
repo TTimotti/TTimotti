@@ -61,8 +61,8 @@
 </picture>  
 
 - SNS  
-<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/timkim.work-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>   
+<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>  
+<a href="https://discord.gg/Vk5PGark" target="_blank"><img src="https://img.shields.io/badge/timkim.work-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>  
 
 
