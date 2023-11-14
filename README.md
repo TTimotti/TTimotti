@@ -1,8 +1,8 @@
 ### Hello I'm noob 👋
 ### Learning Since 2022-08 ~  
 - Framework  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-F0F8FF?style=for-the-badge&logo=spring&logoColor=6DB33F"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-F0F8FF?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-41454A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></a>  
 - DB  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/OracleSQL-F0F8FF?style=for-the-badge&logo=oracle&logoColor=F80000"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-F0F8FF?style=for-the-badge&logo=mysql&logoColor=4479A1"/></a>  
@@ -21,7 +21,7 @@
 - IDEA   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/eclipse-F0F8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/intellij-F0F8FF?style=for-the-badge&logo=intellijidea&logoColor=000000"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a>  
 - SNS  
 <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-F0F8FF?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
