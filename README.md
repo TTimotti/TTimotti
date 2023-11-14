@@ -62,8 +62,8 @@
 
 - SNS  
 <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-timkim.work-#5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>   
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/timkim.work-#5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>   
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)
