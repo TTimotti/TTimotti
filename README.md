@@ -1,6 +1,6 @@
 ## Learning Since 2022-08 ~  
   
-Framework  
+Framework & Library
 ---------
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
@@ -8,6 +8,15 @@ Framework
 <picture>
   <img src="https://img.shields.io/badge/SpringBoot-41454A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 </picture>
+<picture>
+  <img src="https://img.shields.io/badge/jQuery-41454A?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/thymeleaf-41454A?style=for-the-badge&logo=thymeleaf&logoColor=005F0F"/>
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</picture>  
 
 DB
 --
@@ -44,18 +53,6 @@ WEB
   <img src="https://img.shields.io/badge/CSS3-41454A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </picture>
 
-Library  
--------
-
-<picture>
-  <img src="https://img.shields.io/badge/jQuery-41454A?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/thymeleaf-41454A?style=for-the-badge&logo=thymeleaf&logoColor=005F0F"/>
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</picture>
 
 IDEA   
 ----
