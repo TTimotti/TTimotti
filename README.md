@@ -1,6 +1,7 @@
 <!-- Learning Since 2022-08 ~   -->
   
-**Framework & Library**
+**Framework & Library**  
+
 ---
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
@@ -18,7 +19,7 @@
   <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </picture>  
 
-**DB**
+**DB**    
 ---
 <picture>
   <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
