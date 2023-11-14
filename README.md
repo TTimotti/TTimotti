@@ -21,13 +21,13 @@ Framework & Library
 DB
 --
 <picture>
-  <img src="https://img.shields.io/badge/OracleSQL-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/MySQL-41454A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </picture>
 <picture>
-  <img src="https://img.shields.io/badge/MariaDB-41454A?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
+  <img src="https://img.shields.io/badge/Maria-41454A?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </picture>
 
 OS  
