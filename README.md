@@ -1,7 +1,7 @@
-Learning Since 2022-08 ~  
+<!-- Learning Since 2022-08 ~   -->
   
 Framework & Library
----------
+---
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
 </picture>
@@ -19,7 +19,7 @@ Framework & Library
 </picture>  
 
 DB
---
+---
 <picture>
   <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 </picture>
@@ -31,7 +31,7 @@ DB
 </picture>
 
 OS  
---
+---
 
 <picture>
   <img src="https://img.shields.io/badge/windows-41454A?style=for-the-badge&logo=windows&logoColor=0078D6"/>
@@ -55,7 +55,7 @@ WEB
 
 
 IDEA   
-----
+---
 <picture>
   <img src="https://img.shields.io/badge/eclipse-41454A?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 </picture>
