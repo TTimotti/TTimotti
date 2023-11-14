@@ -1,6 +1,6 @@
 <!-- Learning Since 2022-08 ~   -->
   
-Framework & Library
+**Framework & Library**
 ---
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
@@ -18,7 +18,7 @@ Framework & Library
   <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </picture>  
 
-DB
+**DB**
 ---
 <picture>
   <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
@@ -30,7 +30,7 @@ DB
   <img src="https://img.shields.io/badge/Maria-41454A?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </picture>
 
-OS  
+**OS**
 ---
 
 <picture>
@@ -40,7 +40,7 @@ OS
   <img src="https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </picture>
 
-WEB  
+**WEB**
 ---
 
 <picture>
@@ -54,7 +54,7 @@ WEB
 </picture>
 
 
-IDEA   
+**IDEA**
 ---
 <picture>
   <img src="https://img.shields.io/badge/eclipse-41454A?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
@@ -66,7 +66,7 @@ IDEA
   <img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </picture>  
 
-SNS  
+**SNS** 
 ---
 
 <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/ttimotti_kr-E4405F?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>
