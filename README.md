@@ -13,9 +13,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-F0F8FF?style=plastic&logo=css3&logoColor=1572B6"/></a>  
 - Library  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-F0F8FF?style=plastic&logo=jquery&logoColor=0769AD"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/thymeleaf-F0F8FF?style=plastic&logo=thymeleaf&logoColor=005F0F"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/react-F0F8FF?style=plastic&logo=react&logoColor=#61DAFB"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-F0F8FF?style=plastic&logo=jquery&logoColor=0769AD"/></a>   
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/thymeleaf-F0F8FF?style=plastic&logo=thymeleaf&logoColor=005F0F"/></a>   
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/react-F0F8FF?style=plastic&logo=react&logoColor=61DAFB"/></a>   
 - IDEA   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/eclipse-F0F8FF?style=plastic&logo=eclipseide&logoColor=2C2255"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/intellij-F0F8FF?style=plastic&logo=intellijidea&logoColor=000000"/></a>  
