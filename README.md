@@ -58,7 +58,8 @@
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-</picture>
+</picture>  
+
 - SNS  
 <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-41454A?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
