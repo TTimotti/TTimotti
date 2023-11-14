@@ -21,7 +21,7 @@
 - IDEA   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/eclipse-F0F8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/intellij-F0F8FF?style=for-the-badge&logo=intellijidea&logoColor=000000"/></a>  
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-F0F8FF?style=for-the-badge&logo=VSCode&logoColor=007ACC"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a>  
 - SNS  
 <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/instagram-F0F8FF?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/discord-F0F8FF?style=for-the-badge&logo=discord&logoColor=5865F2"/></a> : 티티모띠#0442   
