@@ -15,9 +15,8 @@ https://simpleicons.org
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/JAVA-41454A?style=for-the-badge&logo=java&logoColor=F7DF1E"/>
-</picture>  
-
-  
+</picture>
+    
 **Framework & Library**  
 <picture>
   <img src="https://img.shields.io/badge/-Spring-41454A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
@@ -33,8 +32,8 @@ https://simpleicons.org
 </picture>
 <picture>
   <img src="https://img.shields.io/badge/react-41454A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</picture>  
-
+</picture>
+     
 **DB**  
 <picture>
   <img src="https://img.shields.io/badge/Oracle-41454A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
@@ -45,7 +44,7 @@ https://simpleicons.org
 <picture>
   <img src="https://img.shields.io/badge/Maria-41454A?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </picture>
-
+    
 **OS**  
 <picture>
   <img src="https://img.shields.io/badge/windows-41454A?style=for-the-badge&logo=windows&logoColor=0078D6"/>
@@ -53,8 +52,7 @@ https://simpleicons.org
 <picture>
   <img src="https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </picture>
-
-
+     
 **IDEA**  
 <picture>
   <img src="https://img.shields.io/badge/eclipse-41454A?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
@@ -65,15 +63,17 @@ https://simpleicons.org
 <picture>
   <img src="https://img.shields.io/badge/VSCode-41454A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </picture>  
+    
 
-**SNS**   
-<a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/ttimotti_kr-E4405F?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>
-<a href="https://discord.gg/Vk5PGark" target="_blank"><img src="https://img.shields.io/badge/timkim.work-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>
-<a href="mailto:ttimotti.workspace@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>
-
-
+       
 <div align="center">
-[![TTiomtti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)](https://github.com/TTimotti)
+
+  <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/ttimotti_kr-E4405F?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>
+  <a href="https://discord.gg/Vk5PGark" target="_blank"><img src="https://img.shields.io/badge/timkim.work-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>
+  <a href="mailto:ttimotti.workspace@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ttimotti.workspace@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>
+  
+  [![TTiomtti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)](https://github.com/TTimotti)
+  
 </div>
 <!--
 **TTimotti/TTimotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
