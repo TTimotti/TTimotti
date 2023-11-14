@@ -39,7 +39,7 @@
 **WEB**  
 <picture>
   <img src="https://img.shields.io/badge/HTML5-41454A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-</picture>  
+</picture>
 <picture>
   <img src="https://img.shields.io/badge/JavaScript-41454A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </picture>
