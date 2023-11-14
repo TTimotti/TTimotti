@@ -2,7 +2,7 @@
 Learning Since 2022-08 ~  
 https://simpleicons.org
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=I'm%TTimotti)  
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello,%20${name}!)  
 **Language**  
 <picture>
   <img src="https://img.shields.io/badge/HTML5-41454A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
