@@ -18,6 +18,7 @@
 <picture>
   <img src="https://img.shields.io/badge/MariaDB-F0F8FF?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </picture>
+
 - OS  
 <picture>
   <img src="https://img.shields.io/badge/windows-F0F8FF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
@@ -25,6 +26,7 @@
 <picture>
   <img src="https://img.shields.io/badge/linux-F0F8FF?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </picture>
+
 - WEB  
 <picture>
   <img src="https://img.shields.io/badge/HTML5-F0F8FF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -35,6 +37,7 @@
 <picture>
   <img src="https://img.shields.io/badge/CSS3-F0F8FF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </picture>
+
 - Library  
 <picture>
   <img src="https://img.shields.io/badge/jQuery-F0F8FF?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
@@ -45,6 +48,7 @@
 <picture>
   <img src="https://img.shields.io/badge/react-F0F8FF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </picture>
+
 - IDEA   
 <picture>
   <img src="https://img.shields.io/badge/eclipse-F0F8FF?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
