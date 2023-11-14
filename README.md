@@ -8,6 +8,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-F0F8FF?style=plastic&logo=mysql&logoColor=4479A1"/></a>  
 - OS  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/windows-F0F8FF?style=plastic&logo=windows&logoColor=0078D6"/></a>  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/linux-F0F8FF?style=plastic&logo=linux&logoColor=FCC624"/></a>  
 - WEB  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-F0F8FF?style=plastic&logo=html5&logoColor=E34F26"/></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0F8FF?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>  
