@@ -72,7 +72,7 @@ https://simpleicons.org
 
   <a href="https://instagram.com/ttimotti_kr?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/인서타-E4405F?style=flat-square&logo=instagram&logoColor=FEFEFE"/></a>
   <a href="https://discord.gg/Vk5PGark" target="_blank"><img src="https://img.shields.io/badge/디스커드-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/></a>
-  <a href="mailto:ttimotti.workspace@gmail.com" target="_blank"><img src="https://img.shields.io/badge/이멜@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>
+  <a href="mailto:ttimotti.workspace@gmail.com" target="_blank"><img src="https://img.shields.io/badge/이멜-EA4335?style=flat-square&logo=gmail&logoColor=FEFEFE"/></a>
   
   [![TTiomtti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTimotti&show_icons=true&theme=radical)](https://github.com/TTimotti)
   
